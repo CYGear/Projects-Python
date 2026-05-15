@@ -1,0 +1,689 @@
+{
+    "NAME": "Space_Info",
+    "SONG_PATH": "assets/music/songs/SPACE_INFO.mp3",
+    "BACKGROUND": "assets/backgrounds/SPACE_INFO.png",
+    "LEVEL_SPEED": 3,
+    "DIFFICULTY": 1,
+    "NOTES": {
+        "note_1": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 2.55
+        },
+        "note_2": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 3.81
+        },
+        "note_3": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 5.06
+        },
+        "note_4": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 6.34
+        },
+        "note_5": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 7.59
+        },
+        "note_6": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 8.85
+        },
+        "note_7": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 10.12
+        },
+        "note_8": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 11.38
+        },
+        "note_9": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 12.65
+        },
+        "note_10": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 13.91
+        },
+        "note_11": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 15.19
+        },
+        "note_12": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 16.44
+        },
+        "note_13": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 17.69
+        },
+        "note_14": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 18.97
+        },
+        "note_15": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 20.29
+        },
+        "note_16": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 21.62
+        },
+        "note_17": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 22.89
+        },
+        "note_18": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 24.15
+        },
+        "note_19": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 25.43
+        },
+        "note_20": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 26.68
+        },
+        "note_21": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 27.93
+        },
+        "note_22": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 29.21
+        },
+        "note_23": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 30.46
+        },
+        "note_24": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 31.74
+        },
+        "note_25": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 33.0
+        },
+        "note_26": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 34.25
+        },
+        "note_27": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 35.53
+        },
+        "note_28": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 36.78
+        },
+        "note_29": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 38.06
+        },
+        "note_30": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 39.31
+        },
+        "note_31": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 40.57
+        },
+        "note_32": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 41.87
+        },
+        "note_33": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 43.12
+        },
+        "note_34": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 44.4
+        },
+        "note_35": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 45.65
+        },
+        "note_36": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 46.9
+        },
+        "note_37": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 48.18
+        },
+        "note_38": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 49.44
+        },
+        "note_39": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 50.69
+        },
+        "note_40": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 51.97
+        },
+        "note_41": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 53.24
+        },
+        "note_42": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 54.5
+        },
+        "note_43": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 55.75
+        },
+        "note_44": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 57.03
+        },
+        "note_45": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 58.28
+        },
+        "note_46": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 59.54
+        },
+        "note_47": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 60.81
+        },
+        "note_48": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 62.07
+        },
+        "note_49": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 63.32
+        },
+        "note_50": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 64.57
+        },
+        "note_51": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 65.85
+        },
+        "note_52": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 67.11
+        },
+        "note_53": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 68.38
+        },
+        "note_54": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 69.64
+        },
+        "note_55": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 70.89
+        },
+        "note_56": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 72.17
+        },
+        "note_57": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 73.42
+        },
+        "note_58": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 74.7
+        },
+        "note_59": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 75.95
+        },
+        "note_60": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 77.21
+        },
+        "note_61": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 78.48
+        },
+        "note_62": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 79.74
+        },
+        "note_63": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 81.01
+        },
+        "note_64": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 82.29
+        },
+        "note_65": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 83.55
+        },
+        "note_66": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 84.8
+        },
+        "note_67": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 86.05
+        },
+        "note_68": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 87.33
+        },
+        "note_69": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 88.58
+        },
+        "note_70": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 89.86
+        },
+        "note_71": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 91.12
+        },
+        "note_72": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 92.37
+        },
+        "note_73": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 93.65
+        },
+        "note_74": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 94.9
+        },
+        "note_75": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 96.18
+        },
+        "note_76": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 97.43
+        },
+        "note_77": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 98.68
+        },
+        "note_78": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 99.96
+        },
+        "note_79": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 101.22
+        },
+        "note_80": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 102.45
+        },
+        "note_81": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 103.7
+        },
+        "note_82": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 104.95
+        },
+        "note_83": {
+            "direction": 1,
+            "speed": 4,
+            "spawn_time": 106.16
+        },
+        "note_84": {
+            "direction": 2,
+            "speed": 4,
+            "spawn_time": 107.39
+        },
+        "note_85": {
+            "direction": 3,
+            "speed": 4,
+            "spawn_time": 108.65
+        },
+        "note_86": {
+            "direction": 4,
+            "speed": 4,
+            "spawn_time": 109.92
+        },
+        "note_87": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 111.18
+        },
+        "note_88": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 112.43
+        },
+        "note_89": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 113.71
+        },
+        "note_90": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 114.96
+        },
+        "note_91": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 116.22
+        },
+        "note_92": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 117.47
+        },
+        "note_93": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 118.75
+        },
+        "note_94": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 120.0
+        },
+        "note_95": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 121.25
+        },
+        "note_96": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 122.53
+        },
+        "note_97": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 123.67
+        },
+        "note_98": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 124.9
+        },
+        "note_99": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 126.18
+        },
+        "note_100": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 127.43
+        },
+        "note_101": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 128.71
+        },
+        "note_102": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 129.96
+        },
+        "note_103": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 131.24
+        },
+        "note_104": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 132.49
+        },
+        "note_105": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 133.75
+        },
+        "note_106": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 135.02
+        },
+        "note_107": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 136.28
+        },
+        "note_108": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 137.53
+        },
+        "note_109": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 138.81
+        },
+        "note_110": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 140.06
+        },
+        "note_111": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 141.36
+        },
+        "note_112": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 142.73
+        },
+        "note_113": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 144.17
+        },
+        "note_114": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 145.43
+        },
+        "note_115": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 146.68
+        },
+        "note_116": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 147.96
+        },
+        "note_117": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 149.21
+        },
+        "note_118": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 150.49
+        },
+        "note_119": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 151.74
+        },
+        "note_120": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 153.0
+        },
+        "note_121": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 154.27
+        },
+        "note_122": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 155.53
+        },
+        "note_123": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 156.8
+        },
+        "note_124": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 158.06
+        },
+        "note_125": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 159.34
+        },
+        "note_126": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 160.59
+        },
+        "note_127": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 161.84
+        },
+        "note_128": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 163.12
+        },
+        "note_129": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 164.37
+        },
+        "note_130": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 165.65
+        },
+        "note_131": {
+            "direction": 1,
+            "speed": 3,
+            "spawn_time": 166.91
+        },
+        "note_132": {
+            "direction": 2,
+            "speed": 3,
+            "spawn_time": 168.16
+        },
+        "note_133": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 169.44
+        },
+        "note_134": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 170.69
+        },
+        "note_135": {
+            "direction": 3,
+            "speed": 3,
+            "spawn_time": 171.97
+        },
+        "note_136": {
+            "direction": 4,
+            "speed": 3,
+            "spawn_time": 173.22
+        }
+    }
+}

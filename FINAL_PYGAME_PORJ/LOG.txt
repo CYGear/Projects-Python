@@ -1,0 +1,34 @@
+TODO:
+    
+    Pause screen fixed!
+
+    GIF BACKGROUND LINK: https://convertio.co/download/4e40064552c9f70cb3db1359dc8f7f9f007900/
+
+    RESIZE GIF PLS TODAY
+
+FINAL GOAL:
+
+    Implement level creator engine into the game!
+
+
+LEVEL CREATOR FORMAT:
+
+    JSON FORMAT:
+    CODE:
+        main = Main()
+
+        main.CreateLevel("test_file", "display_name_test")
+        main.EditLevel("test_file", {"note_1" : {"direction": 1, "speed" : 2}}, 2) # speed does not have to be defined
+
+    JSON EX:
+            demon_level.json:
+
+        {
+            "NAME" : "Demon Attack"  #(This can be anything) 
+            "SONG_PATH" : "assets/music/songs/idk_any_game.mp3"
+            "LEVEL_SPEED" : usually 2 for base speed
+            "NOTES":{
+                "note_1" : {"direction" : 1} # Will go from note_{note number} to last note number so it can be as big as it needs too
+                #Will be same data as stuff used to make notes. There will be a level creater which will create json data. And level loader wich will decode it into a level
+            }
+        }

@@ -1,0 +1,7 @@
+Game about: Rythym game. Beats come in up down left and right. 
+
+Hardest part: Getting the pulses to work. I tried sin waves but left on pygame events instead.
+
+Most proud of: Getting beat system to work nicely/optimized.
+
+What would you add if you had more time: I would add a level creator.
