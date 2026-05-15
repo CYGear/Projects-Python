@@ -1,9 +1,0 @@
-GAME NAME: Sosu
-
-Player: Click arrow keys to beat directions.
-
-
-Player win condition: Levels go by and finnish at end. No winning/losing but instead there is a ranking system.
-
-Enemes/obstacles: No enemies unless you count beats. If beats aren't clicked or are clicked with wrong arrow key then it will remove one point. Else it will add one point.
-
